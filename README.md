@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome%20to%20my%20Github!&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling)
+
 ## 안녕하세요! 🫡
 <br/>
 
@@ -20,7 +23,7 @@
 
 ---
 
-### 👀 나의 활동 
+### 👀 Activity
 
 <img src='https://img.shields.io/badge/2023.11 ~ ing -📚 서울 프론트엔드 스터디-FF9900'/>  
 <img src='https://img.shields.io/badge/2023.11 ~ ing -📚 글또 9기 독서 모임-996633'/>  
@@ -37,7 +40,7 @@
 ---
 
 
-### 👨🏻‍💻 Career ~
+### 👨🏻‍💻 Career
 
 <img src='https://img.shields.io/badge/2022.04 ~ ing -이스트소프트-0000FF'/>  
 <img src='https://img.shields.io/badge/2018.05 ~ 2022.04.04 - 더존비즈온-0099FF'/>  

@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taehyeon-kim-44432bb6/)](https://www.linkedin.com/in/taehyeon-kim-44432bb6/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaxogus0517@gmail.com)](mailto:rlaxogus0517@gmail.com)
 
-웹 개발을 사람하고, UI/UX를 좋아하는 프론트엔드 개발자 김태현(Tap)입니다.
+웹 개발을 좋아하고, UI/UX를 좋아하는 프론트엔드 개발자 김태현(Tap)입니다.
 
 - 개발만큼이나 소통에도 중요함을 생각합니다.
 - 팀의 허물없는 삶의 공유와 기술적 잡담을 좋아합니다.

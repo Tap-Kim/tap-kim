@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome%20to%20my%20Github!&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling)
+<!--![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome%20to%20my%20Github!&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling) -->
 
 ## 안녕하세요! 🫡
 <br/>

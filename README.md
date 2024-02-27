@@ -23,14 +23,15 @@
 
 ### 👀 Activity
 
-<img src='https://img.shields.io/badge/2023.11 ~ ing -📚 서울 프론트엔드 스터디-FF9900'/>  
-<img src='https://img.shields.io/badge/2023.11 ~ ing -📚 글또 9기 독서 모임-996633'/>  
-<img src='https://img.shields.io/badge/2023.11 ~ ing -✍️ 글또 9기-CC9966'/>  
-<img src='https://img.shields.io/badge/2023.11 ~ 2023.11 -🤿 프론트엔드 다이빙 클럽-164863'/>  
-<img src='https://img.shields.io/badge/2023.07 ~ ing -👀 GDG Songdo/Incheon-99CCFF'/>  
-<img src='https://img.shields.io/badge/2023.06 ~ 2023.09 -⛰️ Namsan-0000CC'/>  
-<img src='https://img.shields.io/badge/2022.12 ~ ing -🎯 사내 스터디 ZIPZUG-CC0066'/>  
-<img src='https://img.shields.io/badge/2022.12 ~ ing -🎄 개인 블로그 개발 도파민-FF9900'/>  
+<a href="https://github.com/Korean-FE-Article"><img src='https://img.shields.io/badge/2024.02 ~ ing -📝 FE Article 번역 활동 모임-48BF53'/></a>
+
+<a href="https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516"><img src='https://img.shields.io/badge/2023.11 ~ ing -✍️ 글또 9기-CC9966'/></a>
+
+<a href="https://github.com/FrontendStudySeoul"><img src='https://img.shields.io/badge/2023.11 ~ 2024.02 -📚 서울 프론트엔드 스터디-FF9900'/></a>
+
+<a href="https://danielkim88.notion.site/GDG-Incheon-Songdo-3d00a1dbf75949cdaf8ce12665c75750"><img src='https://img.shields.io/badge/2023.07 ~ 2023.12 -👀 GDG Songdo/Incheon-99CCFF'/></a>
+
+<a href="https://toss.tech/article/frontend-diving-club"><img src='https://img.shields.io/badge/2023.11 ~ 2023.11 -🤿 프론트엔드 다이빙 클럽-164863'/></a>
 
 <br/>
 
@@ -47,3 +48,11 @@
 <br/>
 
 ---
+
+### 👨 Side
+
+<a href="https://github.com/ZIPJUNG"><img src='https://img.shields.io/badge/2022.12 ~ 2023.12 -🎯 사내 스터디 ZIPZUG-CC0066'/></a>
+
+<a href="https://github.com/NAMSAN-MT"><img src='https://img.shields.io/badge/2023.06 ~ 2023.09 -⛰️ Namsan-0000CC'/></a>
+
+<br/>

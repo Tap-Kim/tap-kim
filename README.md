@@ -27,7 +27,7 @@
 
 <a href="https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516"><img src='https://img.shields.io/badge/2023.11 ~ ing -✍️ 글또 9기-CC9966'/></a>
 
-<a href="https://github.com/FrontendStudySeoul"><img src='https://img.shields.io/badge/2023.11 ~ 2024.02 -📚 서울 프론트엔드 스터디-FF9900'/></a>
+<a href="https://github.com/FrontendStudySeoul"><img src='https://img.shields.io/badge/2023.11 ~ ing -📚 서울 프론트엔드 스터디-FF9900'/></a>
 
 <a href="https://danielkim88.notion.site/GDG-Incheon-Songdo-3d00a1dbf75949cdaf8ce12665c75750"><img src='https://img.shields.io/badge/2023.07 ~ 2023.12 -👀 GDG Songdo/Incheon-99CCFF'/></a>
 

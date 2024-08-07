@@ -6,6 +6,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTap-Kim%2Fhit-counter&count_bg=%232AD6EF&title_bg=%23191919&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=bloglovin&link=https://ironist-tapkim.tistory.com/)](https://ironist-tapkim.tistory.com/)
+[![Translation Blog Badge](http://img.shields.io/badge/-Translation%20blog-green?style=flat-square&logo=bloglovin&link=https://velog.io/@tap_kim)](https://velog.io/@tap_kim)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taehyeon-kim-44432bb6/)](https://www.linkedin.com/in/taehyeon-kim-44432bb6/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaxogus0517@gmail.com)](mailto:rlaxogus0517@gmail.com)
 

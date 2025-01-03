@@ -27,7 +27,4 @@
 
 ### 👨 Side
 
-<a href="https://github.com/ZIPJUNG"><img src='https://img.shields.io/badge/2022.12 ~ 2023.12 -🎯 사내 스터디 ZIPZUG-CC0066'/></a>
-
 <a href="https://github.com/NAMSAN-MT"><img src='https://img.shields.io/badge/2023.06 ~ 2023.09 -⛰️ Namsan-0000CC'/></a>
-
